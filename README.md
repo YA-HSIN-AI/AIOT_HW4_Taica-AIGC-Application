@@ -4,7 +4,7 @@ This project demonstrates an **interactive analysis system** to compare the beha
 The system is implemented using **Streamlit** and follows the **CRISP-DM methodology**.
 
 🔗 **Live Demo (Streamlit Cloud):**  
-👉 [Run the App Here]([https://aiothw4taica-aigc-application](https://aiothw4taica-aigc-application-edfolp2vlbsvownf5vi5bk.streamlit.app/))
+👉 [Run the App Here]((https://aiothw4taica-aigc-application-edfolp2vlbsvownf5vi5bk.streamlit.app/))
 ---
 
 ## 🔍 Project Overview
