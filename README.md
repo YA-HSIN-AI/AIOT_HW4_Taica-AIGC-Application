@@ -3,6 +3,8 @@
 This project demonstrates an **interactive analysis system** to compare the behavior of a **base language model** and a **fine-tuned language model**, based on concepts from **HW8: Fine-tuning Leads to Forgetting**.  
 The system is implemented using **Streamlit** and follows the **CRISP-DM methodology**.
 
+🔗 **Live Demo (Streamlit Cloud):**  
+👉 [Run the App Here]([https://aiot](https://aiothw4taica-aigc-application-edfolp2vlbsvownf5vi5bk.streamlit.app/)
 ---
 
 ## 🔍 Project Overview
@@ -18,8 +20,7 @@ The system is implemented using **Streamlit** and follows the **CRISP-DM methodo
 - **Key Concept**  
   *Catastrophic Forgetting* — fine-tuning on a specific task may improve performance on that task while degrading other capabilities.
 
-🔗 **Live Demo (Streamlit Cloud):**  
-👉 [Run the App Here](https://aiot)
+
 ---
 
 # 🧭 CRISP-DM Steps
