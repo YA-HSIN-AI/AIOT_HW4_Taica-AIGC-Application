@@ -18,6 +18,8 @@ The system is implemented using **Streamlit** and follows the **CRISP-DM methodo
 - **Key Concept**  
   *Catastrophic Forgetting* — fine-tuning on a specific task may improve performance on that task while degrading other capabilities.
 
+🔗 **Live Demo (Streamlit Cloud):**  
+👉 [Run the App Here](https://aiot)
 ---
 
 # 🧭 CRISP-DM Steps
