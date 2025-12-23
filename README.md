@@ -1,7 +1,7 @@
 # 📘 LLM Fine-tuning Impact Analysis on LLM Behavior
 
 This project demonstrates an **interactive analysis system** to compare the behavior of a **base language model** and a **fine-tuned language model**, based on concepts from **HW8: Fine-tuning Leads to Forgetting**.  
-The system is implemented using **Streamlit** and follows the **CRISP-DM methodology**.
+The system is implemented using **Streamlit** and follows the **CRISP-DM methodology**
 
 🔗 **Live Demo (Streamlit Cloud):**  
 👉 [Run the App Here](https://aiothw4taica-aigc-application-edfolp2vlbsvownf5vi5bk.streamlit.app)
